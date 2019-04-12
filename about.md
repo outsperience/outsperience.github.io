@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Outsperience is a plateform connecting Chinese parents to overseas host families and structures.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is a plateform for education enthusiasts. We share new educational trends from China mainly but also from the rest of the world.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+To get more information don't hesitate to check our website at [outsperience.com](http://www.outsperience.com) !
+
+
+### Contact us
+
+[contact@outsperience.com](mailto:contact@outsperience.com)
