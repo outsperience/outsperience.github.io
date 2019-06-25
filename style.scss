@@ -269,6 +269,12 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  
+  .thumbnail {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+  }
 }
 
 .wrapper-footer {
