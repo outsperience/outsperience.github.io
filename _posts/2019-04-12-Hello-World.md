@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outsperience is live!
-image: /images/website_live.png
+thumbnail: /images/website_live.png
 ---
 
 Finally after quite some time: development time, domain name bought, design, and plenty of ideas emerging at once, our website is live. [Check it out](http://www.outsperience.com).

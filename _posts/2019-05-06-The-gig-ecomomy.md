@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The gig Economy
+thumbnail: /images/gig-economy.jpg
 ---
 
 A fairly recent trend is growing at a fast pace in most western countries. You may work with or even be a private contractor (aka freelance) yourself. Well, the "Gig Economy" is the economy based on that type of employment in opposition to the regular employment contracts, and well, it’s booming.
