@@ -16,13 +16,12 @@ Once all that is set, the Chinese child needs to get a visa. For that 1st Outspe
 
 This is finally the time to get on the plane and let our first adventurer, 宋晨炜(pronounced Song ChenWei) lives his very first Outsperience
 
-![_config.yml]({{ site.baseurl }}/images/day_0_shanghai_airport.jpg)
 Shanghai, Pudong airport, 10:30am, luggage register, it’s time to go on board !
+![_config.yml]({{ site.baseurl }}/images/day_0_shanghai_airport.jpg)
 
-12hours of plane later, here he is, in London, Heatrow airport !
-
-![_config.yml]({{ site.baseurl }}/images/day_0_london_airport.jpeg)
+12hours of plane later, here he is !
 London Heathrow airport, 5:30pm. The teenager and his new host family for the week finally meet !
+![_config.yml]({{ site.baseurl }}/images/day_0_london_airport.jpeg)
 
 ## Day 1
 
