@@ -25,7 +25,7 @@ London Heathrow airport, 5:30pm. The teenager and his new host family for the we
 
 ## Day 1
 
-For this 1st day in the UK, The Mortimer family brought 晨炜(ChenWei) to the city of Oxford, which host one of the most famous and the oldest university in the English speaking word: The [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford).
+For this 1st day in the UK, The Mortimer family brought 晨炜(ChenWei) to the city of Oxford, which host one of the most famous and the oldest university in the English speaking world: The [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford).
 ![_config.yml]({{ site.baseurl }}/images/day_1_oxford.jpg)
 
 After visiting that historically rich city, they decide to do some sports and head for a golf course. Luckily for ChenWei, there's a golf coach in his host family so he could get a proper introduction
