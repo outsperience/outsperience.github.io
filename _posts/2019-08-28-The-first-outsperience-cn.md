@@ -23,39 +23,40 @@ thumbnail: /images/1st-outsperience.jpg
 这位青少年终于和负责照顾他一个星期的东道主见面了！
 ![_config.yml]({{ site.baseurl }}/images/day_0_london_airport.jpeg)
 
-## Day 1
+## 第二天
 
-For this 1st day in the UK, The Mortimer family brought 晨炜(ChenWei) to the city of Oxford, which host one of the most famous and the oldest university in the English speaking word: The [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford).
+在英国的第一天，莫蒂默一家带晨炜来到了牛津城,它有着英语世界里最著名最古老的大学之一:[牛津大学](https://baike.baidu.com/item/%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6)。
 ![_config.yml]({{ site.baseurl }}/images/day_1_oxford.jpg)
 
-After visiting that historically rich city, they decide to do some sports and head for a golf course. Luckily for ChenWei, there's a golf coach in his host family so he could get a proper introduction
+参观过这座历史悠久的城市后,他们决定去高尔夫球场做些运动。幸运的是，东道主家庭里正好有一位高尔夫教练可以给他合适的指导。
 ![_config.yml]({{ site.baseurl }}/images/day_1_golf.jpg)
 
-After such a rich day and the jetlag starting to hit, a good meal was clearly required and they decided to go out and share some pizzas. Yummy !
+一天下来，时差反应也开始了，急需一顿美食的慰藉，于是他们决定一起去外面吃披萨,太好吃啦！
 ![_config.yml]({{ site.baseurl }}/images/day_1_pizza.jpg)
 
-## Day 2
+## 第三天
 
-Another day, another program ! Today, the day started with the visit of the city of Windsor, most known for being the home of one of the six Queen's castles: The [Windsor castle](https://en.wikipedia.org/wiki/Windsor_Castle).
+第三天
+每天都有不同的项目！
+今天一天从参观温莎市开始,它因有女王的六个城堡之一而闻名:[温莎古堡](https://baike.baidu.com/item/%E6%B8%A9%E8%8E%8E%E5%8F%A4%E5%A0%A1)。
 ![_config.yml]({{ site.baseurl }}/images/day_2_windsor.jpg)
 
-Following the visit of the Windsor, the group went on with their trip and reach the [Eton College](https://en.wikipedia.org/wiki/Eton_College). Eton has educated generations of British and foreign aristocracy, and even members of the British royal family.
+在参观温莎市之后，他们继续行程上的安排，到达了伊顿公学。[伊顿公学](https://baike.baidu.com/item/%E4%BC%8A%E9%A1%BF%E5%85%AC%E5%AD%A6)培养了几代英国和外国贵族，甚至是英国皇室成员。
 ![_config.yml]({{ site.baseurl }}/images/day_2_eton.jpg)
 
-After comming back home, the sun still being around, ChenWei enjoy the company of Charlie, the Mortimer's family's dog
+回到家后，太阳还没下山，晨炜享受着查理(莫蒂默家庭的宠物狗)的陪伴。
 ![_config.yml]({{ site.baseurl }}/images/day_2_dog_walking.jpg)
 
-After a full day outside, the last activity of the day was a display of one of the many talent of Mr Mortimer: playing guitar!
+在外面呆了整整一天之后，这一天的最后一项活动是展示莫蒂默先生的众多才能之一:弹吉他！
 ![_config.yml]({{ site.baseurl }}/images/day_2_guitar.png)
 
-## Day 3
+## 第四天
 
-After a few days in the UK, paying a visit to the capital quickly become a must. So here it comes, the Outsperience continues in London.
+在英国呆了几天之后，去首都参观就显得必不可少了。所以，塔哒！继续去伦敦进行体验啦。
 ![_config.yml]({{ site.baseurl }}/images/day_3_red_telephone_box.jpg)
 ![_config.yml]({{ site.baseurl }}/images/day_3_tower_bridge.jpg)
 
-
-## Day 4
+## 第五天
 
 The 4th day starts with a copious breakfast: a full English breakfast.
 ![_config.yml]({{ site.baseurl }}/images/day_4_breakfast.jpg)
@@ -73,7 +74,7 @@ ChenWei start to be more familiar with his new life of the week. He hop on a bik
 ![_config.yml]({{ site.baseurl }}/images/day_4_bicycle.jpg)
 
 
-## Day 5
+## 第六天
 
 You may not know it yet, but ChenWei is actually a pretty solid fencer, so going to England was a good opportunity for him to visit one of the shop of one of the most famous Fencing-focused brand.
 ![_config.yml]({{ site.baseurl }}/images/day_5_leon_paul.jpg)
@@ -87,7 +88,7 @@ In that same yard, there's also some cherry tomatoes
 Finally, for the last evening, let's pay a visit to the oldest pub of england: [The Royal Standard of England](http://www.rsoe.co.uk/)
 ![_config.yml]({{ site.baseurl }}/images/day_5_pub.jpg)
 
-## Day 6
+## 第七天
 
 Every good things have an end, and after all these different activities, visits, sports, food and drink tasting. It is time to get back to China.
 
