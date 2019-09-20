@@ -36,7 +36,6 @@ thumbnail: /images/1st-outsperience.jpg
 
 ## 第三天
 
-第三天
 每天都有不同的项目！
 今天一天从参观温莎市开始,它因有女王的六个城堡之一而闻名:[温莎古堡](https://baike.baidu.com/item/%E6%B8%A9%E8%8E%8E%E5%8F%A4%E5%A0%A1)。
 ![_config.yml]({{ site.baseurl }}/images/day_2_windsor.jpg)
@@ -58,21 +57,20 @@ thumbnail: /images/1st-outsperience.jpg
 
 ## 第五天
 
-The 4th day starts with a copious breakfast: a full English breakfast.
+第五天以丰盛的早餐作为开始:丰盛的英式早餐。
 ![_config.yml]({{ site.baseurl }}/images/day_4_breakfast.jpg)
 
-An Outsperience allows one to discover a new culture, its food, its architecture, its customs, etc... and one but not least its language. So today ChenWei enjoy a dedicated English class from his host Mrs Mortimer
+外体可以让人接触到一种新的文化，包括不同的饮食，多种建筑风格和颇具特点的风俗习惯等等，不仅仅是语言上的差异。所以今天晨炜享受着主人莫蒂默夫人专门为他上的英语课。
 ![_config.yml]({{ site.baseurl }}/images/day_4_class.jpg)
 
-After exercising his brain, it's time for the rest of the body to be exercised. Let's play Badminton !
+在锻炼了他的大脑之后，是时候锻炼身体了。让我们打一场羽毛球吧!
 ![_config.yml]({{ site.baseurl }}/images/day_4_badmington.jpg)
 
-One of the most important aspects of doing sports is fair-play, so here's a good display of sportsmanship: a proper handshake.
+做运动最重要的一个方面就是公平竞争，所以这就很好地展示了体育精神:友好的握手。
 ![_config.yml]({{ site.baseurl }}/images/day_4_fairplay.jpg)
 
-ChenWei start to be more familiar with his new life of the week. He hop on a bike and start to explore by himself the neighbourhood. The experience allows him to discover fairly well his surounding and even manage to buy himself lunch, a good way of practicing his english !
+晨炜开始更加熟悉他新的一周生活。他跳上自行车，开始独自探索周围的环境。这段经历让他更深入地了解了这座城市小镇的魅力，甚至为自己买了午餐，这是练习英语的好方法!
 ![_config.yml]({{ site.baseurl }}/images/day_4_bicycle.jpg)
-
 
 ## 第六天
 
